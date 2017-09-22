@@ -1,0 +1,5 @@
+/Users/david/Projects/CSharp/TrainingProjects/DemoAsync/DemoAsync/DemoAsync/bin/Debug/DemoAsync.exe
+/Users/david/Projects/CSharp/TrainingProjects/DemoAsync/DemoAsync/DemoAsync/bin/Debug/DemoAsync.pdb
+/Users/david/Projects/CSharp/TrainingProjects/DemoAsync/DemoAsync/DemoAsync/obj/x86/Debug/DemoAsync.csproj.CoreCompileInputs.cache
+/Users/david/Projects/CSharp/TrainingProjects/DemoAsync/DemoAsync/DemoAsync/obj/x86/Debug/DemoAsync.exe
+/Users/david/Projects/CSharp/TrainingProjects/DemoAsync/DemoAsync/DemoAsync/obj/x86/Debug/DemoAsync.pdb

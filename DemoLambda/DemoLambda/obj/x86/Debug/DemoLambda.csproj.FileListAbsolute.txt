@@ -1,0 +1,5 @@
+/Users/david/Projects/CSharp/TrainingProjects/DemoLambda/DemoLambda/DemoLambda/bin/Debug/DemoLambda.exe
+/Users/david/Projects/CSharp/TrainingProjects/DemoLambda/DemoLambda/DemoLambda/bin/Debug/DemoLambda.pdb
+/Users/david/Projects/CSharp/TrainingProjects/DemoLambda/DemoLambda/DemoLambda/obj/x86/Debug/DemoLambda.csproj.CoreCompileInputs.cache
+/Users/david/Projects/CSharp/TrainingProjects/DemoLambda/DemoLambda/DemoLambda/obj/x86/Debug/DemoLambda.exe
+/Users/david/Projects/CSharp/TrainingProjects/DemoLambda/DemoLambda/DemoLambda/obj/x86/Debug/DemoLambda.pdb

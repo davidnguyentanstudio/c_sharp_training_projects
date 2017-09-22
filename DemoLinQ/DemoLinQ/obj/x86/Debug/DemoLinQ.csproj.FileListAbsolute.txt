@@ -1,0 +1,5 @@
+/Users/david/Projects/CSharp/TrainingProjects/DemoLinQ/DemoLinQ/DemoLinQ/obj/x86/Debug/DemoLinQ.csproj.CoreCompileInputs.cache
+/Users/david/Projects/CSharp/TrainingProjects/DemoLinQ/DemoLinQ/DemoLinQ/bin/Debug/DemoLinQ.exe
+/Users/david/Projects/CSharp/TrainingProjects/DemoLinQ/DemoLinQ/DemoLinQ/bin/Debug/DemoLinQ.pdb
+/Users/david/Projects/CSharp/TrainingProjects/DemoLinQ/DemoLinQ/DemoLinQ/obj/x86/Debug/DemoLinQ.exe
+/Users/david/Projects/CSharp/TrainingProjects/DemoLinQ/DemoLinQ/DemoLinQ/obj/x86/Debug/DemoLinQ.pdb
