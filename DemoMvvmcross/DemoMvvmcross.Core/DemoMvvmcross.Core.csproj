@@ -35,8 +35,8 @@
     <Compile Include="Services\IPrintConsoleService.cs" />
     <Compile Include="Services\DebuggingService.cs" />
     <Compile Include="Services\IDebuggingService.cs" />
-    <Compile Include="Models\Thing.cs" />
-    <Compile Include="Models\IThing.cs" />
+    <Compile Include="Models\Prefix.cs" />
+    <Compile Include="Models\IPrefix.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MvvmCross.Platform">

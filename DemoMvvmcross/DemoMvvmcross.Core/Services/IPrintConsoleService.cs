@@ -5,7 +5,7 @@ namespace DemoMvvmcross.Core.Services
 {
     public interface IPrintConsoleService
     {
-        IThing Prefix { get; set; }
+        IPrefix Prefix { get; set; }
 
         string Convert(object any);
     }

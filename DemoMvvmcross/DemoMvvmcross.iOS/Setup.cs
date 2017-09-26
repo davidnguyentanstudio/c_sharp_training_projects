@@ -34,7 +34,7 @@ namespace DemoMvvmcross.iOS
         {
             base.InitializeLastChance();
 
-            Mvx.RegisterSingleton<IThing>(() => new Thing("Debugger"));
+            Mvx.RegisterSingleton<IPrefix>(() => new Prefix("Debugger"));
         }
     }
 }

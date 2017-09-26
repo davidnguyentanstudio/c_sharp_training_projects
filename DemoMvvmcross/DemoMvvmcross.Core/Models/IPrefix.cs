@@ -1,8 +1,8 @@
 ﻿using System;
 namespace DemoMvvmcross.Core.Models
 {
-    public interface IThing
+    public interface IPrefix
     {
-        string Name { get; set; }
+        string Text { get; set; }
     }
 }

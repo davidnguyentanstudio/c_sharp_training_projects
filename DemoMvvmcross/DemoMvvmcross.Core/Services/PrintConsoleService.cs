@@ -6,21 +6,21 @@ namespace DemoMvvmcross.Core.Services
 {
     public class PrintConsoleService : IPrintConsoleService
     {
-        private IThing _prefix;
-        public IThing Prefix
+        private IPrefix _prefix;
+        public IPrefix Prefix
         {
             get => _prefix;
             set => _prefix = value;
         }
 
-        public PrintConsoleService(IThing prefix)
+        public PrintConsoleService(IPrefix prefix)
         {
             this._prefix = prefix;
         }
 
         public string Convert(object any)
         {
-            return this.Prefix.Name + ": " + any.ToString();
+            return this.Prefix.Text + ": " + any.ToString();
         }
     }
 }
